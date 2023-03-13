@@ -1,1 +1,1 @@
-ITAcademy Assignment | Landing Page using Bootstrap for layout
+ITAcademy Assignment | Landing Page
